@@ -1,0 +1,10 @@
+Pienso que llevar un registro de cambios en un proyecto de software es muy útil porque permite saber qué modificaciones se han realizado a lo largo del tiempo. 
+Con herramientas como Git, es posible identificar quién hizo un cambio, cuándo lo hizo y qué fue exactamente lo que se modificó. 
+Esto ayuda a mantener el proyecto más organizado, especialmente cuando varias personas trabajan en él. 
+Si se presenta algún error, también se puede volver a una versión anterior para solucionar el problema con mayor facilidad. 
+Además, permite revisar la evolución del proyecto y entender mejor los avances realizados. 
+Otro aspecto importante es que facilita el trabajo en equipo y evita confusiones entre los integrantes. 
+Por estas razones, considero que Git es una herramienta fundamental para mantener un proyecto ordenado y bien gestionado.
+Además, el historial de cambios permite observar cómo ha evolucionado el proyecto. 
+Otra ventaja es que facilita la colaboración entre los integrantes del equipo. 
+Por estas razones, considero que Git es una herramienta muy importante para gestionar proyectos de software.
