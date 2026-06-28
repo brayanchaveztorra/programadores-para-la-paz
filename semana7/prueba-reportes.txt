@@ -1,0 +1,29 @@
+POST /reportes
+URL: http://localhost:3000/reportes
+Body:
+{
+  "tipo": "Infraestructura",
+  "descripcion": "Daño en alumbrado público"
+}
+
+Respuesta POST:
+{
+  "mensaje": "Reporte registrado",
+  "reporte": {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+}
+
+GET /reportes
+URL: http://localhost:3000/reportes
+
+Respuesta GET esperada:
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
