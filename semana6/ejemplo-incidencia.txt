@@ -1,0 +1,8 @@
+Ejemplo de JSON para reportar una incidencia
+
+{
+  "tipo": "Mejora de infraestructura educativa",
+  "descripcion": "La comunidad reporta que una institucion educativa se encuentra en pesimas condiciones por la falta de mantenimiento"
+}
+
+Este ejemplo muestra cómo la comunidad podría enviar información básica sobre una incidencia.
