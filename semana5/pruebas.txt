@@ -1,0 +1,9 @@
+http://localhost:3000
+Descripción: Responde con 'Servidor activo'. Es la ruta raíz que indica que el servidor Express está corriendo.
+
+http://localhost:3000/saludo
+Descripción: Responde con 'Hola comunidad'. Ruta estática para saludar a los visitantes.
+
+http://localhost:3000/mensaje/:nombre
+Descripción: Responde con 'Hola <nombre>' usando el parámetro de ruta `nombre`. Ejemplo: /mensaje/juan → 'Hola juan'.
+

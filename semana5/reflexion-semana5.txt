@@ -1,0 +1,9 @@
+Pienso que las APIs pueden ayudar a las comunidades a compartir información de una forma más organizada. 
+Gracias a ellas, diferentes aplicaciones pueden intercambiar datos de manera rápida y sencilla. 
+Esto permite que la misma información llegue a varias plataformas sin tener que escribirla varias veces. 
+Por ejemplo, una alerta sobre una emergencia puede aparecer al mismo tiempo en una página web y en una aplicación móvil. 
+También pueden servir para compartir reportes sobre problemas en un barrio o una comunidad. 
+De esta manera, la información se mantiene más ordenada y es más fácil encontrarla cuando se necesita. 
+Además, las APIs ayudan a que los datos se actualicen con mayor rapidez. 
+Esto reduce la posibilidad de que las personas reciban información desactualizada o diferente en cada plataforma. 
+Por estas razones, considero que las APIs son una herramienta muy útil para mejorar la comunicación y la organización dentro de una comunidad.

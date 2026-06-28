@@ -1,0 +1,8 @@
+POST http://localhost:3000/reporte
+Descripción: Recibe un JSON en el cuerpo de la petición con la propiedad `mensaje`. El servidor responde con un objeto JSON confirmando la recepción:
+{
+	"estado": "Reporte recibido",
+	"mensaje": "<mensaje enviado>"
+}
+
+
