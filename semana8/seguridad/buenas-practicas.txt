@@ -1,0 +1,3 @@
+Activar la autenticación en dos pasos.
+Realizar copias de seguridad.
+Evitar redes Wi-Fi públicas no seguras.

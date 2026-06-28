@@ -1,0 +1,10 @@
+uname -a
+~22.04.1-Ubuntu SMP Thu Mar 26 05:02:21 UTC 
+2026 x86_64 x86_64 x86_64 GNU/Linux
+
+whoami
+codespace
+
+Por qué es útil conocer información del sistema cuando se administra un servidor?
+Es importante porque permite identificar el sistema operativo, la arquitectura, el usuario actual y otras características del servidor. 
+Esto ayuda a solucionar problemas, revisar el estado del equipo, planificar mantenimiento, ajustar recursos y mantener la seguridad y estabilidad del servicio.

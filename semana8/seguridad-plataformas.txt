@@ -1,0 +1,5 @@
+1. Realizar copias de seguridad periódicas.
+2. Activar la autenticación en dos pasos.
+3. Verificar la identidad de los usuarios.
+4. Cerrar sesión en equipos compartidos.
+5. Detectar y reportar actividades sospechosas.
