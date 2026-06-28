@@ -1,0 +1,34 @@
+QUÉ OCURRE CUANDO EJECUTAS "node server.js" ===
+R= Cuando ejecutas el comando "node server.js", Node.js carga y ejecuta el archivo del servidor Express.
+El servidor se inicia y comienza a escuchar conexiones entrantes en el puerto 3000.
+El proceso se queda esperando (blocking) para recibir solicitudes HTTP.
+El servidor permanece activo hasta que se detiene manualmente (Ctrl+C).
+
+MENSAJE QUE APARECE EN LA TERMINAL
+Servidor ejecutándose en puerto 3000
+
+Este mensaje se muestra inmediatamente después de ejecutar el comando, confirmando que:
+El servidor se inició correctamente
+Está escuchando en el puerto 3000
+Está listo para recibir solicitudes HTTP
+
+QUÉ SUCEDE CUANDO VISITAS LAS RUTAS
+RUTA 1: http://localhost:3000 (Ruta raíz /)
+Respuesta: "Servidor activo y funcionando"
+Tipo de respuesta: Texto plano
+Método HTTP: GET
+El servidor devuelve un mensaje simple confirmando que está activo
+
+RUTA 2: http://localhost:3000/estado
+- Respuesta: 
+{
+  "estado": "Servidor funcionando",
+  "servicio": "API comunitaria"
+}
+- Tipo de respuesta: JSON
+- Método HTTP: GET
+- El servidor devuelve un objeto JSON con información del estado del servidor y el nombre del servicio
+
+El servidor funciona correctamente, respondiendo a ambas rutas con los mensajes esperados.
+Express está correctamente configurado para manejar solicitudes GET en estas dos rutas.
+El servidor es una API básica que proporciona información sobre su estado operativo.
